@@ -1,0 +1,5 @@
+add
+int a,b,c,res;
+a+b=c
+res=c
+end of add logic
